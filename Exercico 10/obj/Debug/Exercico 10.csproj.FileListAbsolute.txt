@@ -1,0 +1,6 @@
+C:\Users\etec\Desktop\Lista 3\Exercico 10\Exercico 10\bin\Debug\Exercico 10.exe.config
+C:\Users\etec\Desktop\Lista 3\Exercico 10\Exercico 10\obj\Debug\Exercico 10.csprojResolveAssemblyReference.cache
+C:\Users\etec\Desktop\Lista 3\Exercico 10\Exercico 10\bin\Debug\Exercico 10.exe
+C:\Users\etec\Desktop\Lista 3\Exercico 10\Exercico 10\bin\Debug\Exercico 10.pdb
+C:\Users\etec\Desktop\Lista 3\Exercico 10\Exercico 10\obj\Debug\Exercico 10.exe
+C:\Users\etec\Desktop\Lista 3\Exercico 10\Exercico 10\obj\Debug\Exercico 10.pdb
